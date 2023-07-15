@@ -1,5 +1,6 @@
 const allowedOrigins = [
-    'http://localhost:3000',
+    'http://www.anarchyschedule.com',
+    'https://www.anarchyschedule.com',
 ];
 
 module.exports = allowedOrigins;
